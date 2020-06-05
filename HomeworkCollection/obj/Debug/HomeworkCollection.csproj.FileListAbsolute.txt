@@ -1,0 +1,7 @@
+C:\Users\Majid\source\repos\HomeworkCollection\HomeworkCollection\obj\Debug\HomeworkCollection.csprojAssemblyReference.cache
+C:\Users\Majid\source\repos\HomeworkCollection\HomeworkCollection\obj\Debug\HomeworkCollection.csproj.CoreCompileInputs.cache
+C:\Users\Majid\source\repos\HomeworkCollection\HomeworkCollection\bin\Debug\HomeworkCollection.exe.config
+C:\Users\Majid\source\repos\HomeworkCollection\HomeworkCollection\bin\Debug\HomeworkCollection.exe
+C:\Users\Majid\source\repos\HomeworkCollection\HomeworkCollection\bin\Debug\HomeworkCollection.pdb
+C:\Users\Majid\source\repos\HomeworkCollection\HomeworkCollection\obj\Debug\HomeworkCollection.exe
+C:\Users\Majid\source\repos\HomeworkCollection\HomeworkCollection\obj\Debug\HomeworkCollection.pdb
